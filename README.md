@@ -14,13 +14,13 @@ AUTHORS:  Alexandre V. Morozov and Julia Tsitron
 
 This document provides directions for using the RANSA (C++) package.  For complete details about the design and applications of the algorithm please refer to the following two papers:
 
-Tsitron J, Ault AD, Broach JR, Morozov AV (2011) Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array. **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 [pdf][9]
+Tsitron J, Ault AD, Broach JR, Morozov AV (2011) [Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002224) **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 [pdf][9]
 
 _and_
 
-[Tsitron J, Kreller CR, Sekhar PK, Mukundan R, Garzon FH, Brosha EL, Morozov AV. (2014) Bayesian Decoding of
-the Ammonia Response of a Zirconia-based Mixed-Potential Sensor in the Presence of Hydrocarbon Interference.
-Sens. Actuators B: Chem. 192: 283-93.](http://www.sciencedirect.com/science/article/pii/S0925400513013178)
+Tsitron J, Kreller CR, Sekhar PK, Mukundan R, Garzon FH, Brosha EL, Morozov AV. (2014) [Bayesian Decoding of
+the Ammonia Response of a Zirconia-based Mixed-Potential Sensor in the Presence of Hydrocarbon Interference.](http://www.sciencedirect.com/science/article/pii/S0925400513013178)
+Sens. Actuators B: Chem. 192: 283-93.
 
 ## [Compilation][8]
 
