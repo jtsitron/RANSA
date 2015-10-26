@@ -12,7 +12,7 @@
 ## [Overview][8]
 Copyright: © 2011 Julia Tsitron and Alexandre V. Morozov
 
-This document provides directions for using the RANSA (C++) package.  For complete details about the design and applications of the algorithm please refer to the following two papers:
+This document provides instructions for using the RANSA (C++) package.  For complete details about the design and applications of the algorithm please refer to the following two papers:
 
 Tsitron J, Ault AD, Broach JR, Morozov AV (2011) [Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002224) **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 
 
@@ -22,7 +22,7 @@ Tsitron J, Kreller CR, Sekhar PK, Mukundan R, Garzon FH, Brosha EL, Morozov AV. 
 the Ammonia Response of a Zirconia-based Mixed-Potential Sensor in the Presence of Hydrocarbon Interference.](http://www.sciencedirect.com/science/article/pii/S0925400513013178)
 Sens. Actuators B: Chem. 192: 283-93.
 
-RANSA is licensed under the GNU General Public License (see [LICENSE](https://github.com/jtsitron/RANSA/blob/master/LICENSE) for details). If you use RANSA in your research, please cite the appropriate paper listed above.
+RANSA is licensed under the GNU General Public License (see [LICENSE](https://github.com/jtsitron/RANSA/blob/master/LICENSE) for details). If you use RANSA in your research, please cite the appropriate paper(s) listed above.
 
 ## [Compilation][8]
 
