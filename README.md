@@ -10,11 +10,11 @@
 * [Examples][7]
 
 ## [Overview][8]
-AUTHORS:  Alexandre V. Morozov and Julia Tsitron
+Copyright: © 2011 Julia Tsitron and Alexandre V. Morozov
 
 This document provides directions for using the RANSA (C++) package.  For complete details about the design and applications of the algorithm please refer to the following two papers:
 
-Tsitron J, Ault AD, Broach JR, Morozov AV (2011) [Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002224) **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 [pdf][9]
+Tsitron J, Ault AD, Broach JR, Morozov AV (2011) [Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002224) **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 
 
 _and_
 
