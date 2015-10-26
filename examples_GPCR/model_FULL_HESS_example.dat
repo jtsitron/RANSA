@@ -1,0 +1,11 @@
+Prm	Val	OnOff	Ind
+ddG	-5	0	1
+A	1	0	1
+B	0	1	1
+
+ddG	-5	0	2
+A	0	0	2
+B	0	1	2
+
+alpha	0.25	1	1
+mutot	-3	1
