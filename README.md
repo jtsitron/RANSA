@@ -22,6 +22,8 @@ Tsitron J, Kreller CR, Sekhar PK, Mukundan R, Garzon FH, Brosha EL, Morozov AV. 
 the Ammonia Response of a Zirconia-based Mixed-Potential Sensor in the Presence of Hydrocarbon Interference.](http://www.sciencedirect.com/science/article/pii/S0925400513013178)
 Sens. Actuators B: Chem. 192: 283-93.
 
+RANSA is licensed under GNU General Public License (see [LICENSE](https://github.com/jtsitron/RANSA/blob/master/LICENSE) for details). If you use RANSA in your research, please cite the appropriate paper listed above.
+
 ## [Compilation][8]
 
 Requirements:
