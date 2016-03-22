@@ -12,7 +12,13 @@
 ## [Overview][8]
 Copyright: © 2011 Julia Tsitron and Alexandre V. Morozov
 
-This document provides instructions for using the RANSA (C++) package.  For complete details about the design and applications of the algorithm please refer to the following two papers:
+This document provides instructions for using the RANSA (C++) package.  
+
+Here is a **Summary** of what the algorithm does and its applications:
+
+RANSA can be used in artificial nose systems. Artificial noses mimic the mammalian olfactory system by using arrays of sensors. A single odor molecule invokes a complex pattern of responses across a sensor array. Mixtures of odors complicate things further. The advantage of such systems is their ability to detect and quantify a large number of analytes with a relatively small number of sensors but the challenge is to decode their complex output. And how does one build an artificial nose for mixture detection in the first place? RANSA is a Bayesian-based algorithm that allows us to discover design principles for engineered sensor arrays optimized for mixture recognition. For example, analysis on yeast cells expressing human olfactory receptors shows that mixtures are more easily discriminated when they include antagonists - molecules that do not evoke any response signal from the cells but that bind competitively to the receptor, preventing a "real" signal from being detected. In practice, this means that our best array would include a sensor that has no response to the target chemical, a surprising result. RANSA was also used to successfully infer concentrations of chemicals in complex mixtures in several implementations of artificial arrays. 
+
+For complete details about the design and applications of the algorithm please refer to the following two papers:
 
 Tsitron J, Ault AD, Broach JR, Morozov AV (2011) [Decoding Complex Chemical Mixtures with a Physical Model of a Sensor Array.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002224) **PLoS Comput Biol** 7(10): e1002224\. doi:10.1371/journal.pcbi.1002224 
 
@@ -20,7 +26,7 @@ _and_
 
 Tsitron J, Kreller CR, Sekhar PK, Mukundan R, Garzon FH, Brosha EL, Morozov AV. (2014) [Bayesian Decoding of
 the Ammonia Response of a Zirconia-based Mixed-Potential Sensor in the Presence of Hydrocarbon Interference.](http://www.sciencedirect.com/science/article/pii/S0925400513013178)
-Sens. Actuators B: Chem. 192: 283-93.
+**Sens. Actuators B: Chem** 192: 283-93.
 
 RANSA is licensed under the GNU General Public License (see [LICENSE](https://github.com/jtsitron/RANSA/blob/master/LICENSE) for details). If you use RANSA in your research, please cite the appropriate paper(s) listed above.
 
